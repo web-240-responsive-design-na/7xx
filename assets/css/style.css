@@ -26,6 +26,65 @@ body {
   width: 50%;
 }
 
+.hat {
+  background-color: black;
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  top: -70px;
+  left: 20px;
+  border-top-left-radius: 15%;
+  border-top-right-radius: 15%;
+}
+
+.rim {
+  background-color: black;
+  height: 30px;
+  width: 120px;
+  position: absolute;
+  top: 70px;
+  left: -20px;
+  border-radius: 50%;
+}
+
+.face {
+  margin: 40px auto;
+  height: 30px;
+  width: 50%;
+  position: relative;
+}
+
+.eye, .nose, .mouth {
+  border: thin #000 solid;
+  height: 15px;
+  width: 20px;
+  border-radius: 45%;
+  background-color: black;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.nose, .mouth {
+  margin: auto;
+  clear: both;
+}
+
+.nose {
+  margin-top: 20px;
+  height: 30px;
+}
+
+.mouth {
+  margin-top: 10px;
+  width: 50px;
+}
+
 .smBody {
   height: 200px;
   width: 70%;

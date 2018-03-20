@@ -1,0 +1,43 @@
+/* CSS Document */
+
+body {
+  background-color: #ccc;
+}
+
+/* Snowman */
+.snowman {
+  width: 250px;
+  margin: auto;
+  overflow: visible;
+}
+
+.smBody, .smFeet, .smHead {
+  border: thin #000 solid;
+  height: 150px;
+  background-color: aliceblue;
+  border-radius: 45%;
+  margin: auto auto;
+}
+
+.smHead {
+  position: relative;
+  bottom: -60px;
+  z-index: 10;
+  width: 50%;
+}
+
+.smBody {
+  height: 200px;
+  width: 70%;
+  position: relative;
+  bottom: -40px;
+  z-index: 9;
+}
+
+
+.smFeet {
+  height: 300px;
+  width: 250px;
+  z-index: 8;
+  margin-bottom: -40px;
+}

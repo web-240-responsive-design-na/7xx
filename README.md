@@ -20,3 +20,4 @@ inside out project step 701
 - forced content to stay in window and the overflow to be hidden by adding html styles
 - forced scroll bar to be hidden
 - updated snowman style to center the snowman in the screen
+- added Christmas lights

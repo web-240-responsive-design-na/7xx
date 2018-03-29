@@ -8,7 +8,15 @@ inside out project step 700 brnach 700-0
 - Linked style.css file in index.html
 
 inside out project step 700 brnach 700-1
-- Added snowman face and hat divs to index.html 
+- Added snowman face and hat divs to index.html
 - Created styles for snowman face and hat divs
 - Added audio
 
+inside out project step 701
+
+- added hill div to index.html directly below the snowman
+- added the hill class styles to the style.css file
+- added background gradients to the body
+- forced content to stay in window and the overflow to be hidden by adding html styles
+- forced scroll bar to be hidden
+- updated snowman style to center the snowman in the screen

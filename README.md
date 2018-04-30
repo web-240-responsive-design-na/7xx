@@ -34,3 +34,9 @@ inside out project step 703
 - added the divs to make the mountains
 - added some css to design the mountains
 - added some js code to make duplicate copies of the mountains
+
+inside out project step 704
+
+- added divs for the snow
+- added css code to design the snow
+- added js code to make the snow fall

@@ -21,3 +21,10 @@ inside out project step 701
 - forced scroll bar to be hidden
 - updated snowman style to center the snowman in the screen
 - added Christmas lights
+
+inside out project step 702
+
+- added the js folder and app.js file inside it all in the assets folder
+- added the link to my js file
+- added the html and css code to make the tree
+- added js code to make duplicate copies of my tree and hill

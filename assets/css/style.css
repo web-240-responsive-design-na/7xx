@@ -167,8 +167,37 @@ body {
      background: linear-gradient(#8c370f, #5c240a);
 }
 
-/* CHRISTMAS LIGHTS */
+/* MOUNTAINS */
+.mountain {
+    z-index: -10;
+    position: absolute;
+    left: -10px;
+    bottom: -580px;
+    width: 60%;
+    height: 90%;
+    background-color: #755223;
+    -moz-transform: scale(1) rotate(45deg);
+    -webkit-transform: scale(1) rotate(45deg);
+    -o-transform: scale(1) rotate(45deg);
+    -ms-transform: scale(1) rotate(45deg);
+    transform: scale(1) rotate(45deg);
+    border-radius: 15px;
+    overflow: hidden;
+    -webkit-box-shadow: 10px 14px 16px -16px #222;
+    -moz-box-shadow: 10px 14px 16px -16px #222;
+    box-shadow: 10px 14px 16px -16px #222;
+}
+.mountain div {
+    position: absolute;
+    top: -20px;
+    left: -30px;
+    width: 70px;
+    height: 70px;
+    background-color: #eee;
+    border-radius: 10px
+}
 
+/* CHRISTMAS LIGHTS */
 #wire {
   text-align: center;
   white-space: nowrap;

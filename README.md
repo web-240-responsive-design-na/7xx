@@ -28,3 +28,9 @@ inside out project step 702
 - added the link to my js file
 - added the html and css code to make the tree
 - added js code to make duplicate copies of my tree and hill
+
+inside out project step 703
+
+- added the divs to make the mountains
+- added some css to design the mountains
+- added some js code to make duplicate copies of the mountains
